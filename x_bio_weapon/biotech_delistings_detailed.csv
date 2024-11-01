@@ -1,0 +1,59 @@
+date,company,cik,form,ticker,sic,sic_description,is_biotech,biotech_identification_method
+2024-10-31,"Finch Therapeutics Group, Inc.",0001733257,25,FNCH,2836,"Biological Products, (No Diagnostic Substances)",True,"name_match:therapeutics,therapeutic;sic_2836"
+2024-10-11,"Guardion Health Sciences, Inc.",0001642375,25,GHSI,2834,Pharmaceutical Preparations,True,name_match:health sciences;sic_2834
+2024-10-07,Renalytix plc,0001811115,25,RNLXY,8071,Services-Medical Laboratories,True,sic_8071;sic_8071
+2024-09-20,Telesis Bio Inc.,0001850079,25,TBIO,3826,Laboratory Analytical Instruments,True,name_match:bio;sic_3826
+2024-09-13,Calliditas Therapeutics AB,0001795579,25,,,,True,"name_match:therapeutics,therapeutic"
+2024-07-25,MorphoSys AG,0001340243,25,MPSYF,2834,Pharmaceutical Preparations,True,sic_2834
+2024-05-31,"American Oncology Network, Inc.",0001839998,25,AONC,8000,Services-Health Services,True,name_match:oncology
+2024-05-10,MERRIMACK PHARMACEUTICALS INC,0001274792,25,,,,True,"name_match:pharma,pharmaceutical"
+2024-05-06,Clever Leaves Holdings Inc.,0001819615,25,CLVR,2834,Pharmaceutical Preparations,True,sic_2834
+2024-04-29,"Vaxxinity, Inc.",0001851657,25,VAXX,2834,Pharmaceutical Preparations,True,sic_2834
+2024-04-04,"Ampio Pharmaceuticals, Inc.",0001411906,25,AMPE,2834,Pharmaceutical Preparations,True,"name_match:pharma,pharmaceutical;sic_2834"
+2024-03-18,"Cyteir Therapeutics, Inc.",0001662244,25,,,,True,"name_match:therapeutics,therapeutic"
+2024-03-11,LianBio,0001831283,25,LIANY,2834,Pharmaceutical Preparations,True,name_match:bio;sic_2834
+2024-03-01,PHAXIAM Therapeutics S.A.,0001624422,25,,,,True,"name_match:therapeutics,therapeutic"
+2023-12-26,"Amneal Pharmaceuticals, Inc.",0001723128,25,AMRX,2834,Pharmaceutical Preparations,True,"name_match:pharma,pharmaceutical;sic_2834"
+2023-11-06,PyroGenesis Canada Inc.,0001743344,25,PYRGF,2834,Pharmaceutical Preparations,True,sic_2834
+2023-09-29,Graf Acquisition Corp. IV,0001845459,25,NKGN,2836,"Biological Products, (No Diagnostic Substances)",True,sic_2836
+2023-09-25,"COOPER COMPANIES, INC.",0000711404,25,COO,3851,Ophthalmic Goods,True,sic_3851
+2023-07-31,IDEX Biometrics ASA,0001824036,25,,,,True,name_match:bio
+2023-07-21,Priveterra Acquisition Corp.,0001837607,25,AEON,2834,Pharmaceutical Preparations,True,sic_2834
+2023-07-10,VectivBio Holding AG,0001836379,25,,,,True,name_match:bio
+2023-05-04,"Vyant Bio, Inc.",0001349929,25,,,,True,name_match:bio
+2023-05-01,Orion Biotech Opportunities Corp.,0001847416,25,,,,True,"name_match:biotech,bio"
+2023-04-10,BlueRiver Acquisition Corp.,0001831006,25,BLUAF,3841,Surgical & Medical Instruments & Apparatus,True,sic_3841
+2023-04-04,TITAN MEDICAL INC,0000840551,25,TMDIF,3841,Surgical & Medical Instruments & Apparatus,True,name_match:medical;sic_3841
+2023-03-28,"Rubius Therapeutics, Inc.",0001709401,25,,,,True,"name_match:therapeutics,therapeutic"
+2023-03-20,JATT Acquisition Corp,0001855644,25,ZURA,2836,"Biological Products, (No Diagnostic Substances)",True,sic_2836
+2023-03-16,Ambrx Biopharma Inc.,0001836056,25,,,,True,"name_match:pharma,bio"
+2022-12-15,Zymeworks Inc.,0001937653,25,ZYME,2834,Pharmaceutical Preparations,True,sic_2834
+2022-11-25,"First Light Acquisition Group, Inc.",0001855485,25,CLDI,2836,"Biological Products, (No Diagnostic Substances)",True,sic_2836
+2022-10-03,FOXO TECHNOLOGIES INC.,0001812360,25,FOXO,8731,Services-Commercial Physical & Biological Research,True,sic_8731
+2022-09-26,FOXO TECHNOLOGIES INC.,0001812360,25,FOXO,8731,Services-Commercial Physical & Biological Research,True,sic_8731
+2022-09-20,Zealand Pharma A/S,0001674988,25,,,,True,name_match:pharma
+2022-09-08,"Vivani Medical, Inc.",0001266806,25,VANI,3845,Electromedical & Electrotherapeutic Apparatus,True,name_match:medical;sic_3845
+2022-06-02,"GENOCEA BIOSCIENCES, INC.",0001457612,25,,,,True,"name_match:bio,biosciences"
+2022-04-18,"Kaleido Biosciences, Inc.",0001751299,25,KLDO,2836,"Biological Products, (No Diagnostic Substances)",True,"name_match:bio,biosciences;sic_2836"
+2022-02-24,Biofrontera AG,0001712641,25,,,,True,name_match:bio
+2022-02-11,"HEAT BIOLOGICS, INC.",0001476963,25,SCPX,2834,Pharmaceutical Preparations,True,"name_match:bio,biologics;sic_2834"
+2021-11-26,"Annovis Bio, Inc.",0001477845,25,ANVS,2834,Pharmaceutical Preparations,True,name_match:bio;sic_2834
+2021-10-22,"Brooklyn ImmunoTherapeutics, Inc.",0000748592,25,ERNA,2834,Pharmaceutical Preparations,True,"name_match:therapeutics,therapeutic;sic_2834"
+2021-09-16,Soaring Eagle Acquisition Corp.,0001830214,25,DNA,2836,"Biological Products, (No Diagnostic Substances)",True,sic_2836
+2021-08-11,Consonance-HFW Acquisition Corp.,0001824893,25,SRZN,2836,"Biological Products, (No Diagnostic Substances)",True,sic_2836
+2021-06-16,VG Acquisition Corp.,0001804591,25,ME,2834,Pharmaceutical Preparations,True,sic_2834
+2021-06-07,"InspireMD, Inc.",0001433607,25,NSPR,3841,Surgical & Medical Instruments & Apparatus,True,sic_3841
+2021-05-24,AURORA CANNABIS INC,0001683541,25,ACB,2833,Medicinal Chemicals & Botanical Products,True,sic_2833
+2021-05-20,"InspireMD, Inc.",0001433607,25,NSPR,3841,Surgical & Medical Instruments & Apparatus,True,sic_3841
+2021-04-26,Bioceres Crop Solutions Corp.,0001769484,25,BIOX,2870,Agricultural Chemicals,True,name_match:bio
+2021-03-05,OncoCyte Corp,0001642380,25,OCX,2835,In Vitro & In Vivo Diagnostic Substances,True,sic_2835
+2021-02-01,CorMedix Inc.,0001410098,25,CRMD,2834,Pharmaceutical Preparations,True,sic_2834
+2021-01-29,"Ra Medical Systems, Inc.",0001716621,25,VTAK,3841,Surgical & Medical Instruments & Apparatus,True,name_match:medical;sic_3841
+2021-01-07,Social Capital Hedosophia Holdings Corp. III,0001801170,25,CLOV,6324,Hospital & Medical Service Plans,True,sic_6324
+2020-12-28,AMGEN INC,0000318154,25,AMGN,2836,"Biological Products, (No Diagnostic Substances)",True,sic_2836
+2020-12-28,"PDL BIOPHARMA, INC.",0000882104,25,,,,True,"name_match:pharma,bio"
+2020-11-13,Canopy Growth Corp,0001737927,25,CGC,2833,Medicinal Chemicals & Botanical Products,True,sic_2833
+2020-09-24,ASTRAZENECA PLC,0000901832,25,AZN,2834,Pharmaceutical Preparations,True,sic_2834
+2020-05-20,Zyla Life Sciences,0001586105,25,,,,True,name_match:life sciences
+2020-04-14,Benitec Biopharma LTD/ADR,0001552795,25,,,,True,"name_match:pharma,bio"
+2020-02-10,CONMED CORP,0000816956,25,CNMD,3845,Electromedical & Electrotherapeutic Apparatus,True,sic_3845
