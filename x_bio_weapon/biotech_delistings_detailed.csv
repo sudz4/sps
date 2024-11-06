@@ -1,4 +1,5 @@
 date,company,cik,form,ticker,sic,sic_description,is_biotech,biotech_identification_method
+2024-11-04,"PIXIE DUST TECHNOLOGIES, INC.",0001962845,25,PXDT,3845,Electromedical & Electrotherapeutic Apparatus,True,sic_3845
 2024-10-31,"Finch Therapeutics Group, Inc.",0001733257,25,FNCH,2836,"Biological Products, (No Diagnostic Substances)",True,"name_match:therapeutics,therapeutic;sic_2836"
 2024-10-11,"Guardion Health Sciences, Inc.",0001642375,25,GHSI,2834,Pharmaceutical Preparations,True,name_match:health sciences;sic_2834
 2024-10-07,Renalytix plc,0001811115,25,RNLXY,8071,Services-Medical Laboratories,True,sic_8071
@@ -49,8 +50,8 @@ date,company,cik,form,ticker,sic,sic_description,is_biotech,biotech_identificati
 2021-02-01,CorMedix Inc.,0001410098,25,CRMD,2834,Pharmaceutical Preparations,True,sic_2834
 2021-01-29,"Ra Medical Systems, Inc.",0001716621,25,VTAK,3841,Surgical & Medical Instruments & Apparatus,True,name_match:medical;sic_3841
 2021-01-07,Social Capital Hedosophia Holdings Corp. III,0001801170,25,CLOV,6324,Hospital & Medical Service Plans,True,sic_6324
-2020-12-28,"PDL BIOPHARMA, INC.",0000882104,25,,,,True,"name_match:pharma,bio"
 2020-12-28,AMGEN INC,0000318154,25,AMGN,2836,"Biological Products, (No Diagnostic Substances)",True,sic_2836
+2020-12-28,"PDL BIOPHARMA, INC.",0000882104,25,,,,True,"name_match:pharma,bio"
 2020-11-13,Canopy Growth Corp,0001737927,25,CGC,2833,Medicinal Chemicals & Botanical Products,True,sic_2833
 2020-09-24,ASTRAZENECA PLC,0000901832,25,AZN,2834,Pharmaceutical Preparations,True,sic_2834
 2020-05-20,Zyla Life Sciences,0001586105,25,,,,True,name_match:life sciences
@@ -69,8 +70,8 @@ date,company,cik,form,ticker,sic,sic_description,is_biotech,biotech_identificati
 2018-03-05,"INNOVATE BIOPHARMACEUTICALS, INC.",0001551986,25,NMTRQ,2834,Pharmaceutical Preparations,True,"name_match:pharma,bio,pharmaceutical;sic_2834"
 2018-01-08,QIAGEN NV,0001015820,25,QGEN,2836,"Biological Products, (No Diagnostic Substances)",True,sic_2836
 2017-11-09,"Lombard Medical, Inc.",0001597426,25,,,,True,name_match:medical
-2017-10-06,"TherapeuticsMD, Inc.",0000025743,25,TXMD,2834,Pharmaceutical Preparations,True,"name_match:therapeutics,therapeutic;sic_2834"
 2017-10-06,"AOXING PHARMACEUTICAL COMPANY, INC.",0001060426,25,,,,True,"name_match:pharma,pharmaceutical"
+2017-10-06,"TherapeuticsMD, Inc.",0000025743,25,TXMD,2834,Pharmaceutical Preparations,True,"name_match:therapeutics,therapeutic;sic_2834"
 2017-08-04,INTERLEUKIN GENETICS INC,0001037649,25,,,,True,name_match:genetics
 2017-08-02,FLUIDIGM CORP,0001162194,25,LAB,3826,Laboratory Analytical Instruments,True,sic_3826
 2017-05-05,"Altimmune, Inc.",0001326190,25,ALT,2834,Pharmaceutical Preparations,True,sic_2834
