@@ -1,0 +1,80 @@
+
+$ESTC LED ZEPPELIN STRATEGY
+======================================================================
+
+CURRENT STATUS:
+Current Price: 108.03
+Distance to Target: 11.1%
+Shares Remaining: 3000
+Average Volume: 1000000
+
+KEY PRICE LEVELS:
+Aggressive Target: $120.00
+First Target: $118.18
+Base Target: $116.50
+Safety Level: $114.00
+Must Hold: $113.75
+
+ESTC NV (Elastic Search $ESTC) FOCUSED PRIMARY EXECUTION WORST EVER RULES:
+* NO SELLING BELOW $114.00 - Protect profit at all costs
+* Target $120 aggressively in morning sessions if momentum is strong
+* Use smaller blocks (250) to test price levels initially
+* Increase block size if we see strong upward momentum
+* Monitor pre-market and first 30 minutes for direction
+
+DETAILED EXECUTION SCHEDULE:
+
+Monday:
+
+  Morning (9:30-11:00):
+    Shares: 250
+    Primary Level: $120.00
+    Secondary Level: $118.18
+    Stop Level: $113.75
+    Strategy: Hold for strength, look for early momentum
+
+  Midday (11:00-14:00):
+    Shares: 250
+    Primary Level: $118.18
+    Secondary Level: $116.50
+    Stop Level: $113.75
+    Strategy: Monitor volume and price action
+
+  Afternoon (14:00-16:00):
+    Shares: 250
+    Primary Level: $118.18
+    Secondary Level: $116.50
+    Stop Level: $113.75
+    Strategy: Look for late day strength
+
+Tuesday:
+
+  Morning (9:30-11:00):
+    Shares: 250
+    Primary Level: $120.00
+    Secondary Level: $118.18
+    Stop Level: $113.75
+    Strategy: Aggressive if Monday closed strong
+
+  Midday (11:00-14:00):
+    Shares: 250
+    Primary Level: $118.18
+    Secondary Level: $116.50
+    Stop Level: $113.75
+    Strategy: Adjust based on morning performance
+
+  Afternoon (14:00-16:00):
+    Shares: 250
+    Primary Level: $116.50
+    Secondary Level: $114.00
+    Stop Level: $113.75
+    Strategy: Prepare for Wednesday if targets not hit
+
+Wednesday:
+
+  Morning (9:30-11:00):
+    Shares: Remaining
+    Primary Level: $116.50
+    Secondary Level: $114.00
+    Stop Level: $113.75
+    Strategy: Final day execution, watch pre-market momentum

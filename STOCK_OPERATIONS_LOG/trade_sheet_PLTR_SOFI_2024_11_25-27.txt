@@ -1,0 +1,171 @@
+
+TRADE SHEET - SOFI
+======================================================================
+
+PORTFOLIO STATISTICS:
+Entry Price: $7.50
+Current Price: $15.60
+Target Price: $14.00
+Shares to Sell: 2,500 (Block Size: 250)
+Expected Revenue: $39,000.00
+Minimum Revenue Target: $15,000.00
+
+TECHNICAL LEVELS:
+VWAP: $9.07
+RSI: 88.4
+
+Moving Averages:
+  SMA(5): $14.73
+  SMA(20): $12.81
+  EMA(9): $14.27
+
+Bollinger Bands:
+  Upper: $15.99
+  Middle: $12.81
+  Lower: $9.63
+
+KEY LEVELS:
+Resistance Levels:
+  R1: $15.75
+  R2: $15.55
+  R3: $14.89
+Support Levels:
+  S1: $9.77
+  S2: $10.46
+  S3: $10.63
+
+EXECUTION SCHEDULE:
+
+Monday:
+
+  Morning (9:30-11:00):
+    Shares: 500
+    Primary Level: $15.99
+    Secondary Level: $12.81
+    Stop Level: $9.63
+
+  Midday (11:00-14:00):
+    Shares: 500
+    Primary Level: $14.00
+    Secondary Level: $12.81
+    Stop Level: $9.63
+
+  Afternoon (14:00-16:00):
+    Shares: 500
+    Primary Level: $12.81
+    Secondary Level: $9.63
+    Stop Level: $9.77
+
+Tuesday:
+
+  Morning (9:30-11:00):
+    Shares: 500
+    Primary Level: $15.99
+    Secondary Level: $12.81
+    Stop Level: $9.63
+
+  Midday (11:00-14:00):
+    Shares: 250
+    Primary Level: $14.00
+    Secondary Level: $12.81
+    Stop Level: $9.63
+
+  Afternoon (14:00-16:00):
+    Shares: 250
+    Primary Level: $12.81
+    Secondary Level: $9.63
+    Stop Level: $9.77
+
+Wednesday:
+
+  Morning (9:30-11:00):
+    Shares: Remaining
+    Primary Level: $12.81
+    Secondary Level: $9.63
+    Stop Level: $9.77
+
+TRADE SHEET - PLTR
+======================================================================
+
+PORTFOLIO STATISTICS:
+Entry Price: $7.24
+Current Price: $64.35
+Target Price: $60.00
+Shares to Sell: 500 (Block Size: 100)
+Expected Revenue: $32,175.00
+Minimum Revenue Target: $30,000.00
+
+TECHNICAL LEVELS:
+VWAP: $20.34
+RSI: 79.4
+
+Moving Averages:
+  SMA(5): $62.41
+  SMA(20): $54.86
+  EMA(9): $61.11
+
+Bollinger Bands:
+  Upper: $71.98
+  Middle: $54.86
+  Lower: $37.74
+
+KEY LEVELS:
+Resistance Levels:
+  R1: $66.00
+  R2: $64.92
+  R3: $64.44
+Support Levels:
+  S1: $40.90
+  S2: $41.03
+  S3: $41.59
+
+EXECUTION SCHEDULE:
+
+Monday:
+
+  Morning (9:30-11:00):
+    Shares: 200
+    Primary Level: $67.27
+    Secondary Level: $54.86
+    Stop Level: $37.74
+
+  Midday (11:00-14:00):
+    Shares: 200
+    Primary Level: $60.00
+    Secondary Level: $54.86
+    Stop Level: $37.74
+
+  Afternoon (14:00-16:00):
+    Shares: 200
+    Primary Level: $54.86
+    Secondary Level: $37.74
+    Stop Level: $40.90
+
+Tuesday:
+
+  Morning (9:30-11:00):
+    Shares: 200
+    Primary Level: $67.27
+    Secondary Level: $54.86
+    Stop Level: $37.74
+
+  Midday (11:00-14:00):
+    Shares: 100
+    Primary Level: $60.00
+    Secondary Level: $54.86
+    Stop Level: $37.74
+
+  Afternoon (14:00-16:00):
+    Shares: 100
+    Primary Level: $54.86
+    Secondary Level: $37.74
+    Stop Level: $40.90
+
+Wednesday:
+
+  Morning (9:30-11:00):
+    Shares: Remaining
+    Primary Level: $54.86
+    Secondary Level: $37.74
+    Stop Level: $40.90
+
