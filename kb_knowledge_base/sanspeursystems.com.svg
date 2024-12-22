@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="259.89pt" height="22.32pt" viewBox="0 0 259.89 22.32" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-12-22T03:09:23.012547</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 22.32 
+L 259.89 22.32 
+L 259.89 0 
+L 0 0 
+L 0 22.32 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <!-- sanspeursystems.com -->
+    <g style="fill: #fb8b1e" transform="translate(0 17.52) scale(0.24 -0.24)">
+     <defs>
+      <path id="Quantico-BoldItalic-73" d="M 3174 1574 
+L 3059 429 
+L 2272 0 
+L 480 0 
+L 557 749 
+L 2214 749 
+L 2266 1242 
+L 1350 1242 
+L 653 1670 
+L 768 2771 
+L 1555 3200 
+L 3283 3200 
+L 3206 2451 
+L 1613 2451 
+L 1562 2003 
+L 2477 2003 
+L 3174 1574 
+z
+" transform="scale(0.015625)"/>
+      <path id="Quantico-BoldItalic-61" d="M 2522 717 
+L 2707 2483 
+L 1613 2483 
+L 1427 717 
+L 2522 717 
+z
+M 3667 3232 
+L 3322 -32 
+L 2899 -32 
+L 2470 230 
+L 1990 -32 
+L 1216 -32 
+L 518 397 
+L 774 2803 
+L 1562 3232 
+L 2336 3232 
+L 2758 2970 
+L 3245 3232 
+L 3667 3232 
+z
+" transform="scale(0.015625)"/>
+      <path id="Quantico-BoldItalic-6e" d="M 3622 2803 
+L 3328 0 
+L 2451 0 
+L 2707 2483 
+L 1613 2483 
+L 1357 0 
+L 480 0 
+L 819 3232 
+L 1542 3232 
+L 1664 2970 
+L 2150 3232 
+L 2925 3232 
+L 3622 2803 
+z
+" transform="scale(0.015625)"/>
+      <path id="Quantico-BoldItalic-70" d="M 2643 -32 
+L 1805 -32 
+L 1376 230 
+L 1216 -1280 
+L 339 -1280 
+L 819 3232 
+L 1542 3232 
+L 1664 2970 
+L 2150 3232 
+L 2989 3232 
+L 3686 2803 
+L 3430 397 
+L 2643 -32 
+z
+M 1613 2483 
+L 1427 717 
+L 2586 717 
+L 2771 2483 
+L 1613 2483 
+z
+" transform="scale(0.015625)"/>
+      <path id="Quantico-BoldItalic-65" d="M 3213 749 
+L 3136 0 
+L 1222 0 
+L 525 429 
+L 774 2803 
+L 1562 3232 
+L 2733 3232 
+L 3430 2803 
+L 3264 1274 
+L 1485 1274 
+L 1434 749 
+L 3213 749 
+z
+M 1613 2483 
+L 1555 1933 
+L 2458 1933 
+L 2515 2483 
+L 1613 2483 
+z
+" transform="scale(0.015625)"/>
+      <path id="Quantico-BoldItalic-75" d="M 518 397 
+L 813 3200 
+L 1690 3200 
+L 1427 717 
+L 2522 717 
+L 2784 3200 
+L 3661 3200 
+L 3322 -32 
+L 2598 -32 
+L 2470 230 
+L 1990 -32 
+L 1216 -32 
+L 518 397 
+z
+" transform="scale(0.015625)"/>
+      <path id="Quantico-BoldItalic-72" d="M 2714 2451 
+L 1613 2451 
+L 1357 0 
+L 480 0 
+L 813 3200 
+L 1536 3200 
+L 1664 2938 
+L 2144 3200 
+L 2790 3200 
+L 2714 2451 
+z
+" transform="scale(0.015625)"/>
+      <path id="Quantico-BoldItalic-79" d="M 589 -1280 
+L 1338 224 
+L 429 3200 
+L 1306 3200 
+L 1894 1318 
+L 1907 1318 
+L 2848 3200 
+L 3725 3200 
+L 1453 -1280 
+L 589 -1280 
+z
+" transform="scale(0.015625)"/>
+      <path id="Quantico-BoldItalic-74" d="M 480 2451 
+L 557 3200 
+L 1146 3200 
+L 1203 3738 
+L 2131 4243 
+L 2022 3200 
+L 2726 3200 
+L 2650 2451 
+L 1946 2451 
+L 1766 749 
+L 2470 749 
+L 2394 0 
+L 1555 0 
+L 858 429 
+L 1069 2451 
+L 480 2451 
+z
+" transform="scale(0.015625)"/>
+      <path id="Quantico-BoldItalic-6d" d="M 5274 2803 
+L 4979 0 
+L 4102 0 
+L 4358 2483 
+L 3424 2483 
+L 3168 0 
+L 2291 0 
+L 2547 2483 
+L 1613 2483 
+L 1357 0 
+L 480 0 
+L 819 3232 
+L 1542 3232 
+L 1664 2970 
+L 2150 3232 
+L 2765 3232 
+L 3322 2886 
+L 3962 3232 
+L 4576 3232 
+L 5274 2803 
+z
+" transform="scale(0.015625)"/>
+      <path id="Quantico-BoldItalic-2e" d="M 608 0 
+L 730 1216 
+L 1946 1216 
+L 1824 0 
+L 608 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="Quantico-BoldItalic-63" d="M 1613 2451 
+L 1434 749 
+L 3021 749 
+L 2944 0 
+L 1222 0 
+L 525 429 
+L 768 2771 
+L 1555 3200 
+L 3277 3200 
+L 3200 2451 
+L 1613 2451 
+z
+" transform="scale(0.015625)"/>
+      <path id="Quantico-BoldItalic-6f" d="M 3366 397 
+L 2579 -32 
+L 1216 -32 
+L 518 397 
+L 774 2803 
+L 1562 3232 
+L 2925 3232 
+L 3622 2803 
+L 3366 397 
+z
+M 1613 2483 
+L 1427 717 
+L 2522 717 
+L 2707 2483 
+L 1613 2483 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Quantico-BoldItalic-73"/>
+     <use xlink:href="#Quantico-BoldItalic-61" x="54.599991"/>
+     <use xlink:href="#Quantico-BoldItalic-6e" x="114.099976"/>
+     <use xlink:href="#Quantico-BoldItalic-73" x="173.59996"/>
+     <use xlink:href="#Quantico-BoldItalic-70" x="228.199951"/>
+     <use xlink:href="#Quantico-BoldItalic-65" x="288.699936"/>
+     <use xlink:href="#Quantico-BoldItalic-75" x="345.199921"/>
+     <use xlink:href="#Quantico-BoldItalic-72" x="404.699905"/>
+     <use xlink:href="#Quantico-BoldItalic-73" x="445.599899"/>
+     <use xlink:href="#Quantico-BoldItalic-79" x="500.19989"/>
+     <use xlink:href="#Quantico-BoldItalic-73" x="554.699875"/>
+     <use xlink:href="#Quantico-BoldItalic-74" x="609.299866"/>
+     <use xlink:href="#Quantico-BoldItalic-65" x="652.19986"/>
+     <use xlink:href="#Quantico-BoldItalic-6d" x="708.699844"/>
+     <use xlink:href="#Quantico-BoldItalic-73" x="793.999832"/>
+     <use xlink:href="#Quantico-BoldItalic-2e" x="848.599823"/>
+     <use xlink:href="#Quantico-BoldItalic-63" x="886.599808"/>
+     <use xlink:href="#Quantico-BoldItalic-6f" x="938.099792"/>
+     <use xlink:href="#Quantico-BoldItalic-6d" x="997.599777"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
